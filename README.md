@@ -11,8 +11,8 @@ The total number of records obtained for the 7 months was ~97 million. Since, tr
 
 ## Visualizations:
 The following visualizations have been created:
-*1. Monthly Trend For Citibike Riders.A line plot showing monthly growth trend for the total number of records. Analytics was used to generate a trend line which showed a statistically significant trend with R-square >95% and p-value=0.001.
-*2. Forecast Model. A forecast model for the next 5 months (Aug-Dec) was generated based off of the trend, but it was inaccurate since the sample size did not capture seasonality pattern.
+1. Monthly Trend For Citibike Riders.A line plot showing monthly growth trend for the total number of records. Analytics was used to generate a trend line which showed a statistically significant trend with R-square >95% and p-value=0.001.
+1. Forecast Model. A forecast model for the next 5 months (Aug-Dec) was generated based off of the trend, but it was inaccurate since the sample size did not capture seasonality pattern.
 *3. Daily Trend For Citibike Riders.The trend was further dissected to see higher level of granularity in terms of daily ridership. The plot shows that the number of bikers during weedays is above the average  (i.e. ~250,000) of  total number of bikers as compared to the weekends. Highest numberof bikers is seen on tuesdays. 
 4.Hourly Traffic Trend. The line plot shows heavy traffic between 7-10am with a sharp peak around 8am on weekdays. In the evening, peak traffic period is between 5-6pm. Weekends see significantly lesser number of bikers, reflected by the plateau shaped plot. Analytics revealed that 95% of the data tend to lie in the shaded area.The plot is interactive and can be filtered to see result for each day.
 5.Bar chart.The top performing/popular and least popular start stations were identified through a bar chart for the entire period.
