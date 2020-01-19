@@ -4,7 +4,7 @@
 Data from Citi Bike Program for the period January to July, 2018, is analyzed by perparing visualizations using Tableau to present reports as dynamic dashboard. Tableau's analytics was leveraged to gain insights from the visualizations.
 
 ## Data Source:
-[Citi Bike Data](https://www.citibikenyc.com/system-data) 
+[Citi Bike Data](https://www.citibikenyc.com/system-data) :bicyclist:
 
 ## Data Preparation:
 The total number of records obtained for the 7 months was ~97 million. Since, trip duration is not an important measure for analysis, data was filtered based off of trip duration (< 300), to finally create a dataset of 1.78 million records. All files related to data extraction and aggregation are avilable in "data" folder.
