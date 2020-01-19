@@ -23,7 +23,7 @@ The following visualizations have been created:
 1.  **Gowth of user type broken down to gender over time.** Plot suggests a growing number of male (1) and female(2) subscribers over the 7 months. The growth of customers has been more or less constant for all genders. 
 
 ## Dashboards
-The following dashboards have been created with the visualizations. The dashboards are interactive with use of filters to analyze data based on different time intervals, or different genders. The observations and interpretations have been discussed in the findings.
+The following dashboards have been created with the visualizations. The dashboards are interactive with use of filters to analyze data based on different time intervals (Dashboard 1, 2), for selective stations (Dashboard 2) and for different genders(Dashboard 3). The observations and interpretations have been discussed in the findings.
 ## **Trend Analysis**
 ![Trend analysis](https://github.com/Harmeet2504/Tableau/blob/master/Dashboard1.png)
 
