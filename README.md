@@ -24,13 +24,13 @@ The following visualizations have been created:
 
 ## Dashboards
 The following dashboards have been created with the visualizations. The dashboards are interactive with use of filters to analyze data based on different time intervals (Dashboard 1, 2), for selective stations (Dashboard 2) and for different genders(Dashboard 3). The observations and interpretations have been discussed in the findings.
-## **Trend Analysis**
+## **Trend Analysis (Dashboard 1)**
 ![Trend analysis](https://github.com/Harmeet2504/Tableau/blob/master/Dashboard1.png)
 
-## **Popular stations**
+## **Popular stations (Dashboard 2)**
 ![alt text](https://github.com/Harmeet2504/Tableau/blob/master/Dashboard3.png)
 
-## **Growth of user type broken down by gender**
+## **Growth of user type broken down by gender (Dashboard 3)**
 ![alt text](https://github.com/Harmeet2504/Tableau/blob/master/Dashboard2.png)
 
 ## Findings
