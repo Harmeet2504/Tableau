@@ -21,3 +21,12 @@ The following visualizations have been created:
 1. **Gowth of user type over time.**  Pie plot with breakdown of user type growth through each month  shows percentage of customer versus subscriber from Jan to Jul.  An interesting trend was observed. It is revealed that there has been a slight increase in the  number of customers from 0.57% to 2.95% and correspondingly a decrease in the number of subscribers from 99.43% to 97%. 
 1. **Gender growth of ridership.** A line plot was created and percentage difference was calculated to examine growth of ridership in different gender. The general trend of ridership  reveals a growth of 13.85% in male versus 3.46% in female as opposed to 0.69% .
 1.  **Gowth of user type broken down to gender over time.** Plot suggests a growing number of male (1) and female(2) subscribers. The growth of customers has been more or less constant for all genders. 
+
+## Dashboards
+The following dashboards have been created with the visualizations. The observations and interpretations have been discussed in the [#Findings] (#findings).
+
+## #Findings
+1. **Trend analysis:** The analyses indicate that  ridership is more popular in summer than in winter. The analysis also conforms to expectations that more people commute for work on weekdays and hence peak traffic is seen during official hours i.e. around 8am in the morning and around 5-6pm in the evening.
+1. **Popular stations:** The top three  popular stations for the entire duration are: W 21 St & 6 Ave, Broadway & E 14 St, Lafayette St & E 8 St. The botttom three or least popular starting stations are:Apache, Prospect Park, 8D QC Station 01. The geo-spatial distribution of the popular stations suggests that they lie in the heart of the city, in commercially active area and hence are more popular. 
+1. **Growth of user type broken down by gender:** This suggests that while bike riders prefer to subscribe to the service, there is a growing popularity of non-subscribers too. A breakdown of the analysis to examine its popularity by gender(B,right panel) suggests a growing number of male (1) and female(2) subscribers. The growth of customers has been more or less constant for all genders. The general trend of ridership as seen from line plot(B, left panel) reveals a growth of 13.85% in male versus 3.46% in female as opposed to 0.69% of the total percent.
+
