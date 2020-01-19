@@ -1,6 +1,6 @@
-# Dashboard and story building using Tableau
+# Dashboard And Story Building Using Tableau
 
-# Summary:
+## Summary:
 Data from Citi Bike Program for the period January to July, 2018, is analyzed by perparing visualizations using Tableau to present reports as dynamic dashboard. Tableau's analytics was leveraged to gain insights from the visualizations.
 
 # Data Source:[Citi Bike Data](https://www.citibikenyc.com/system-data) 
