@@ -24,7 +24,14 @@ The following visualizations have been created:
 
 ## Dashboards
 The following dashboards have been created with the visualizations. The observations and interpretations have been discussed in the Findings.
+## **Trend Analysis**
 ![Trend analysis](https://github.com/Harmeet2504/Tableau/blob/master/Dashboard1.png)
+
+## **Popular stations**
+![alt text](https://github.com/Harmeet2504/Tableau/blob/master/Dashboard2.png)
+
+## **Growth of user type broken down by gender**
+![alt text](https://github.com/Harmeet2504/Tableau/blob/master/Dashboard3.png)
 
 ## Findings
 1. **Trend analysis:** The analyses indicate that  ridership is more popular in summer than in winter. The analysis also conforms to expectations that more people commute for work on weekdays and hence peak traffic is seen during official hours i.e. around 8am in the morning and around 5-6pm in the evening.
